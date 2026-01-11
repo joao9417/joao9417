@@ -7,7 +7,7 @@ Especializado en desarrollo backend, integración de sistemas y automatización 
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador de software basado en **Cali, Colombia**, apasionado por construir soluciones escalables y eficientes. Actualmente, combino mis estudios finales con la contribución activa a proyectos de **código abierto** en comunidades de Latinoamérica.
+Soy un desarrollador de software de **Cali, Colombia**, apasionado por construir soluciones escalables y eficientes. Actualmente, combino mis estudios finales con la contribución activa a proyectos de **código abierto** en comunidades de Latinoamérica.
 
 - 🛠️ **Especialidad:** Creación de APIs RESTful y automatización de flujos de trabajo.
 - 🤝 **Comunidad:** Entusiasta del Open Source y la colaboración regional en LATAM.
