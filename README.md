@@ -11,7 +11,7 @@ Soy un desarrollador de software de **Cali, Colombia**, apasionado por construir
 
 - 🛠️ **Especialidad:** Creación de APIs RESTful y automatización de flujos de trabajo.
 - 🤝 **Comunidad:** Entusiasta del Open Source y la colaboración regional en LATAM.
-- ⚡ **Dato curioso:** Cuando no estoy programando, me encontrarás haciendo senderismo en los Farallones o nadando.
+- ⚡ **Dato curioso:** Cuando no estoy programando, me encontrarás haciendo senderismo o nadando.
 
 ---
 
