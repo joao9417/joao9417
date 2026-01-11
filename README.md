@@ -44,9 +44,8 @@ Soy un desarrollador de software basado en **Cali, Colombia**, apasionado por co
 
 ## 📊 GitHub Stats
 
-![Joan GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao9417&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+![GitHub Metrics](https://raw.githubusercontent.com/joao9417/joao9417/main/github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9417&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 ---
 
