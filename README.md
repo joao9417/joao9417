@@ -63,5 +63,5 @@ Soy un desarrollador de software basado en **Cali, Colombia**, apasionado por co
 ---
 
 <p align="center">
-  <i>"Automatizar lo repetitivo para liberar la creatividad humana."</i>
+  <i>"El sacrificio de hoy se convierte en el codigo solido de mañana."</i>
 </p>
