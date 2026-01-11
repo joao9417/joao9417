@@ -1,31 +1,68 @@
+# 👋 Hola, soy Joan Orozco
+Software Engineer Student | Backend & Fullstack Developer | Automation & API Enthusiast
 
+Especializado en desarrollo backend, integración de sistemas y automatización de procesos.
 
-## Hi there.  I'm Joan
+<p align="left"> <img src="https://img.shields.io/badge/📍%20Location-Cali,%20Colombia-blue?style=flat-square"> <img src="https://img.shields.io/badge/🎓%20Status-Finalizando%20estudios-success?style=flat-square"> </p>
 
-### I'm a Software Engineer student from Colombia.
-### Details about me
-- I’m Joan, a web and mobile developer based in Cali, Colombia. I’m passionate about technology, programming, and reading. I also enjoy hiking and swimming.
-- 💻 I'm currently finishing my studies while contributing to open source projects in Latin American software communities.
+## 🚀 Sobre mí
 
-<section align="center">
-    <h3>Contact with me on:</h3>
-    <div>
-        <a href="https://www.linkedin.com/in/joan-orozco-085155248/"><img width="30px" height="30px" src="icons/linkedin.svg" alt="LinkedIn"></a>
-        &nbsp;
-    </div>
-</section>
+Soy un desarrollador de software basado en **Cali, Colombia**, apasionado por construir soluciones escalables y eficientes. Actualmente, combino mis estudios finales con la contribución activa a proyectos de **código abierto** en comunidades de Latinoamérica.
 
-## 🛠️ My Skills
+- 🛠️ **Especialidad:** Creación de APIs RESTful y automatización de flujos de trabajo.
+- 🤝 **Comunidad:** Entusiasta del Open Source y la colaboración regional en LATAM.
+- ⚡ **Dato curioso:** Cuando no estoy programando, me encontrarás haciendo senderismo en los Farallones o nadando.
 
-### Programming languages
+---
 
-<p> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+## 🛠️ Mi Stack Técnico
+
+### 🏗️ Backend & API Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+</p>
+
+### 💻 Frontend & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+</p>
+
+### 🧰 DevOps & Tools
+<p align="left"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Joan GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao9417&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao9417&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+
+---
+
+## 📩 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joan-orozco-085155248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  <a href="mailto:tu-correo@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Automatizar lo repetitivo para liberar la creatividad humana."</i>
 </p>
